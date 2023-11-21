@@ -1,0 +1,42 @@
+﻿@using DataObjects
+@model BookVM
+
+
+<div class="card my-2" style="max-height: 150px;">
+    <div class="card-body bg-light">
+        @{
+            string imagePath = "/Images/" + Model.ISBN + ".jpg";
+            <img src="@imagePath" alt="Image of @Model.Title" class="float-left mr-3" style="max-width: 100px; max-height: 100px" />
+        }
+
+        <p class="h3">
+            <strong>@Model.Title</strong>
+            <span class="badge badge-primary float-right">@Model.SalePrice.ToString("c")</span>
+        </p>
+
+        @using (Html.BeginForm("AddToCart", "Cart"))
+        {
+            <div class="float-right">
+                @Html.HiddenFor(x => x.ISBN)
+                @Html.Hidden("returnUrl", Request.Url.PathAndQuery)
+                <input type="submit" class="btn btn-primary" value="Add to cart" />
+            </div>
+        }
+
+        <span class="lead">
+            @Model.BookCategoryID: @Model.BookGenreID | @Model.BookConditionID
+            @if (Model.Authors.Count() == 1)
+            {
+                <p>@Model.Authors[0].GivenName @Model.Authors[0].FamilyName</p>
+            }
+            @if (Model.Authors.Count() == 2)
+            {
+                <p>@Model.Authors[0].GivenName @Model.Authors[0].FamilyName & @Model.Authors[1].GivenName @Model.Authors[1].FamilyName</p>
+            }
+            @if (Model.Authors.Count() == 3)
+            {
+                <p>@Model.Authors[0].GivenName @Model.Authors[0].FamilyName, @Model.Authors[1].GivenName @Model.Authors[1].FamilyName, & @Model.Authors[2].GivenName @Model.Authors[2].FamilyName</p>
+            }
+        </span>
+    </div>
+</div>

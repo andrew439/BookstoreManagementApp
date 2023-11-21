@@ -1,0 +1,30 @@
+﻿@using DataObjects
+@model IEnumerable<BookVM>
+
+@{
+    ViewBag.Title = "Boxes of Books";
+}
+
+<div class="container">
+    <div class="row">
+        <div class="mx-auto mt-4 d-none d-sm-block">
+            <img src="~/Images/4 Day Sci-Fi sale3.png" alt="Sci-fi Sale ad" />
+        </div>
+    </div>
+
+    <div class="row mt-5 mb-3 border-bottom">
+        <h3>New Arrivals</h3>
+        <hr />
+    </div>
+    @foreach (var book in Model)
+    {
+        @Html.Partial("BookSummaryPartial", book)
+    }
+    <div class="row mt-5">
+        <span class="mx-auto">
+            @Html.ActionLink("Browse our complete collection", "List", "Books", null,
+                                new { @class = "btn btn-primary", @style = "width: 500px; height: 50px; font-size: 25px" })
+        </span>
+    </div>
+</div>
+

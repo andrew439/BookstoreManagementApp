@@ -1,0 +1,83 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" href="@Url.Content("~/Content/Images/favicon.ico")" />
+    <link href="~/Content/ErrorStyles.css" rel="stylesheet" />
+    <title>@ViewBag.Title</title>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+
+    <link href="~/Content/nav-styles.css" rel="stylesheet" />
+</head>
+<body>
+    <div class="navbar sticky-top navbar-expand-lg navbar-dark" id="navbar">
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarToggler" aria-controls="navbarToggler" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarToggler">
+            @Html.ActionLink("Boxes Of Books", "Index", "Home", new { area = "" }, new { @class = "navbar-brand" })
+            <ul class="navbar-nav mr-auto mt-2 mt-lg-0">
+                <li class="nav-item">@Html.ActionLink("Books", "List", "Books", null, new { @class = "nav-link" })</li>
+                <li class="nav-item">
+                    @Html.RouteLink("Fiction", new
+                    {
+                        controller = "Books",
+                        action = "List",
+                       category = "Fiction",
+                        page = 1
+                    }, new { @class = "nav-link" })
+            </li>
+            <li class="nav-item">
+                @Html.RouteLink("Nonfiction", new
+                {
+                    controller = "Books",
+                    action = "List",
+                   category = "Nonfiction",
+                    page = 1
+                }, new { @class = "nav-link" })
+            </li>
+            <li class="nav-item">@Html.ActionLink("Contact", "Contact", "Home", null, new { @class = "nav-link" })</li>
+            <li class="nav-item">@Html.ActionLink("About", "About", "Home", null, new { @class = "nav-link" })</li>
+            @if (User.IsInRole("Administrator") || User.IsInRole("Manager") || User.IsInRole("Cashier") ||
+                    User.IsInRole("StockClerk") || User.IsInRole("Purchaser"))
+            {
+                <li class="nav-item">@Html.ActionLink("Inventory", "Index", "Inventory", null, new { @class = "nav-link" })</li>
+            }
+            @if (User.IsInRole("Administrator") || User.IsInRole("Manager"))
+            {
+                <li class="nav-item">@Html.ActionLink("Customers", "Index", "Customers", null, new { @class = "nav-link" })</li>
+
+            }
+            
+            @if (User.IsInRole("Administrator"))
+            {
+                <li class="nav-item">@Html.ActionLink("User Administration", "Index", "Admin", null, new { @class = "nav-link" })</li>
+            }
+            </ul>
+                @Html.Partial("_LoginPartial")
+                @if (User.IsInRole("Customer"))
+                {
+                    @Html.Action("Summary", "Cart")
+                }
+                @*@if (User.IsInRole("Administrator"))
+                {
+                    @Html.Action("Summary", "Cart")
+                }*@
+        </div>
+    </div>
+    <div class="container body-content">
+        @RenderBody()
+        <hr />
+        <footer>
+            <p>&copy; @DateTime.Now.Year - Boxes Of Books</p>
+        </footer>
+    </div>
+
+
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    @RenderSection("scripts", required: false)
+</body>
+</html>

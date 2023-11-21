@@ -1,0 +1,19 @@
+﻿@model DataObjects.Cart
+
+
+
+@{ 
+    string text = "Your cart:\n" + @Model.Lines.Sum(x => x.Quantity) + " item(s) " + @Model.ComputeTotalValue().ToString("c");
+}
+
+
+<div class="ml-2">
+    @*<b class="d-none d-sm-block pl-1">Your cart:</b>
+    @Model.Lines.Sum(x => x.Quantity) item(s),
+    @Model.ComputeTotalValue().ToString("c")*@
+    @Html.ActionLink(text, "Index", "Cart",
+        new { returnUrl = Request.Url.PathAndQuery },
+        new { @class = "btn btn-secondary btn-sm" }
+    )
+</div>
+

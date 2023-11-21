@@ -1,0 +1,597 @@
+C:\net3\final_project_dot_net3\BookstoreManagementApp\MVCPresentation\bin\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\net3\final_project_dot_net3\BookstoreManagementApp\MVCPresentation\bin\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\net3\final_project_dot_net3\BookstoreManagementApp\MVCPresentation\bin\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\net3\final_project_dot_net3\BookstoreManagementApp\MVCPresentation\bin\MVCPresentation.dll.config
+C:\net3\final_project_dot_net3\BookstoreManagementApp\MVCPresentation\bin\MVCPresentation.dll
+C:\net3\final_project_dot_net3\BookstoreManagementApp\MVCPresentation\bin\MVCPresentation.pdb
+C:\net3\final_project_dot_net3\BookstoreManagementApp\MVCPresentation\bin\roslyn\csc.exe
+C:\net3\final_project_dot_net3\BookstoreManagementApp\MVCPresentation\bin\roslyn\csc.exe.config
+C:\net3\final_project_dot_net3\BookstoreManagementApp\MVCPresentation\bin\roslyn\csc.rsp
+C:\net3\final_project_dot_net3\BookstoreManagementApp\MVCPresentation\bin\roslyn\csi.exe
+C:\net3\final_project_dot_net3\BookstoreManagementApp\MVCPresentation\bin\roslyn\csi.exe.config
+C:\net3\final_project_dot_net3\BookstoreManagementApp\MVCPresentation\bin\roslyn\csi.rsp
+C:\net3\final_project_dot_net3\BookstoreManagementApp\MVCPresentation\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\net3\final_project_dot_net3\BookstoreManagementApp\MVCPresentation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\net3\final_project_dot_net3\BookstoreManagementApp\MVCPresentation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\net3\final_project_dot_net3\BookstoreManagementApp\MVCPresentation\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\net3\final_project_dot_net3\BookstoreManagementApp\MVCPresentation\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\net3\final_project_dot_net3\BookstoreManagementApp\MVCPresentation\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\net3\final_project_dot_net3\BookstoreManagementApp\MVCPresentation\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\net3\final_project_dot_net3\BookstoreManagementApp\MVCPresentation\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\net3\final_project_dot_net3\BookstoreManagementApp\MVCPresentation\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\net3\final_project_dot_net3\BookstoreManagementApp\MVCPresentation\bin\roslyn\Microsoft.Managed.Core.targets
+C:\net3\final_project_dot_net3\BookstoreManagementApp\MVCPresentation\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\net3\final_project_dot_net3\BookstoreManagementApp\MVCPresentation\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\net3\final_project_dot_net3\BookstoreManagementApp\MVCPresentation\bin\roslyn\System.AppContext.dll
+C:\net3\final_project_dot_net3\BookstoreManagementApp\MVCPresentation\bin\roslyn\System.Collections.Immutable.dll
+C:\net3\final_project_dot_net3\BookstoreManagementApp\MVCPresentation\bin\roslyn\System.Console.dll
+C:\net3\final_project_dot_net3\BookstoreManagementApp\MVCPresentation\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\net3\final_project_dot_net3\BookstoreManagementApp\MVCPresentation\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\net3\final_project_dot_net3\BookstoreManagementApp\MVCPresentation\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\net3\final_project_dot_net3\BookstoreManagementApp\MVCPresentation\bin\roslyn\System.Globalization.Calendars.dll
+C:\net3\final_project_dot_net3\BookstoreManagementApp\MVCPresentation\bin\roslyn\System.IO.Compression.dll
+C:\net3\final_project_dot_net3\BookstoreManagementApp\MVCPresentation\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\net3\final_project_dot_net3\BookstoreManagementApp\MVCPresentation\bin\roslyn\System.IO.FileSystem.dll
+C:\net3\final_project_dot_net3\BookstoreManagementApp\MVCPresentation\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\net3\final_project_dot_net3\BookstoreManagementApp\MVCPresentation\bin\roslyn\System.Net.Http.dll
+C:\net3\final_project_dot_net3\BookstoreManagementApp\MVCPresentation\bin\roslyn\System.Net.Sockets.dll
+C:\net3\final_project_dot_net3\BookstoreManagementApp\MVCPresentation\bin\roslyn\System.Reflection.Metadata.dll
+C:\net3\final_project_dot_net3\BookstoreManagementApp\MVCPresentation\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\net3\final_project_dot_net3\BookstoreManagementApp\MVCPresentation\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\net3\final_project_dot_net3\BookstoreManagementApp\MVCPresentation\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\net3\final_project_dot_net3\BookstoreManagementApp\MVCPresentation\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\net3\final_project_dot_net3\BookstoreManagementApp\MVCPresentation\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\net3\final_project_dot_net3\BookstoreManagementApp\MVCPresentation\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\net3\final_project_dot_net3\BookstoreManagementApp\MVCPresentation\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\net3\final_project_dot_net3\BookstoreManagementApp\MVCPresentation\bin\roslyn\System.ValueTuple.dll
+C:\net3\final_project_dot_net3\BookstoreManagementApp\MVCPresentation\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\net3\final_project_dot_net3\BookstoreManagementApp\MVCPresentation\bin\roslyn\System.Xml.XmlDocument.dll
+C:\net3\final_project_dot_net3\BookstoreManagementApp\MVCPresentation\bin\roslyn\System.Xml.XPath.dll
+C:\net3\final_project_dot_net3\BookstoreManagementApp\MVCPresentation\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\net3\final_project_dot_net3\BookstoreManagementApp\MVCPresentation\bin\roslyn\vbc.exe
+C:\net3\final_project_dot_net3\BookstoreManagementApp\MVCPresentation\bin\roslyn\vbc.exe.config
+C:\net3\final_project_dot_net3\BookstoreManagementApp\MVCPresentation\bin\roslyn\vbc.rsp
+C:\net3\final_project_dot_net3\BookstoreManagementApp\MVCPresentation\bin\roslyn\VBCSCompiler.exe
+C:\net3\final_project_dot_net3\BookstoreManagementApp\MVCPresentation\bin\roslyn\VBCSCompiler.exe.config
+C:\net3\final_project_dot_net3\BookstoreManagementApp\MVCPresentation\bin\Antlr3.Runtime.dll
+C:\net3\final_project_dot_net3\BookstoreManagementApp\MVCPresentation\bin\Castle.Core.dll
+C:\net3\final_project_dot_net3\BookstoreManagementApp\MVCPresentation\bin\DataAccessLayer.dll
+C:\net3\final_project_dot_net3\BookstoreManagementApp\MVCPresentation\bin\DataAccessLayerInterfaces.dll
+C:\net3\final_project_dot_net3\BookstoreManagementApp\MVCPresentation\bin\DataObjects.dll
+C:\net3\final_project_dot_net3\BookstoreManagementApp\MVCPresentation\bin\EntityFramework.dll
+C:\net3\final_project_dot_net3\BookstoreManagementApp\MVCPresentation\bin\EntityFramework.SqlServer.dll
+C:\net3\final_project_dot_net3\BookstoreManagementApp\MVCPresentation\bin\LogicLayer.dll
+C:\net3\final_project_dot_net3\BookstoreManagementApp\MVCPresentation\bin\LogicLayerInterfaces.dll
+C:\net3\final_project_dot_net3\BookstoreManagementApp\MVCPresentation\bin\Microsoft.AspNet.Identity.Core.dll
+C:\net3\final_project_dot_net3\BookstoreManagementApp\MVCPresentation\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\net3\final_project_dot_net3\BookstoreManagementApp\MVCPresentation\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\net3\final_project_dot_net3\BookstoreManagementApp\MVCPresentation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\net3\final_project_dot_net3\BookstoreManagementApp\MVCPresentation\bin\Microsoft.Owin.dll
+C:\net3\final_project_dot_net3\BookstoreManagementApp\MVCPresentation\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\net3\final_project_dot_net3\BookstoreManagementApp\MVCPresentation\bin\Microsoft.Owin.Security.Cookies.dll
+C:\net3\final_project_dot_net3\BookstoreManagementApp\MVCPresentation\bin\Microsoft.Owin.Security.dll
+C:\net3\final_project_dot_net3\BookstoreManagementApp\MVCPresentation\bin\Microsoft.Owin.Security.Facebook.dll
+C:\net3\final_project_dot_net3\BookstoreManagementApp\MVCPresentation\bin\Microsoft.Owin.Security.Google.dll
+C:\net3\final_project_dot_net3\BookstoreManagementApp\MVCPresentation\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\net3\final_project_dot_net3\BookstoreManagementApp\MVCPresentation\bin\Microsoft.Owin.Security.OAuth.dll
+C:\net3\final_project_dot_net3\BookstoreManagementApp\MVCPresentation\bin\Microsoft.Owin.Security.Twitter.dll
+C:\net3\final_project_dot_net3\BookstoreManagementApp\MVCPresentation\bin\Microsoft.TestPlatform.CoreUtilities.dll
+C:\net3\final_project_dot_net3\BookstoreManagementApp\MVCPresentation\bin\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\net3\final_project_dot_net3\BookstoreManagementApp\MVCPresentation\bin\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\net3\final_project_dot_net3\BookstoreManagementApp\MVCPresentation\bin\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\net3\final_project_dot_net3\BookstoreManagementApp\MVCPresentation\bin\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\net3\final_project_dot_net3\BookstoreManagementApp\MVCPresentation\bin\Microsoft.Web.Infrastructure.dll
+C:\net3\final_project_dot_net3\BookstoreManagementApp\MVCPresentation\bin\Moq.dll
+C:\net3\final_project_dot_net3\BookstoreManagementApp\MVCPresentation\bin\Newtonsoft.Json.dll
+C:\net3\final_project_dot_net3\BookstoreManagementApp\MVCPresentation\bin\Ninject.dll
+C:\net3\final_project_dot_net3\BookstoreManagementApp\MVCPresentation\bin\Ninject.Web.Common.dll
+C:\net3\final_project_dot_net3\BookstoreManagementApp\MVCPresentation\bin\Ninject.Web.Common.WebHost.dll
+C:\net3\final_project_dot_net3\BookstoreManagementApp\MVCPresentation\bin\Ninject.Web.Mvc.dll
+C:\net3\final_project_dot_net3\BookstoreManagementApp\MVCPresentation\bin\NuGet.Frameworks.dll
+C:\net3\final_project_dot_net3\BookstoreManagementApp\MVCPresentation\bin\Owin.dll
+C:\net3\final_project_dot_net3\BookstoreManagementApp\MVCPresentation\bin\System.Collections.Immutable.dll
+C:\net3\final_project_dot_net3\BookstoreManagementApp\MVCPresentation\bin\System.Reflection.Metadata.dll
+C:\net3\final_project_dot_net3\BookstoreManagementApp\MVCPresentation\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\net3\final_project_dot_net3\BookstoreManagementApp\MVCPresentation\bin\System.Threading.Tasks.Extensions.dll
+C:\net3\final_project_dot_net3\BookstoreManagementApp\MVCPresentation\bin\System.Web.Helpers.dll
+C:\net3\final_project_dot_net3\BookstoreManagementApp\MVCPresentation\bin\System.Web.Mvc.dll
+C:\net3\final_project_dot_net3\BookstoreManagementApp\MVCPresentation\bin\System.Web.Optimization.dll
+C:\net3\final_project_dot_net3\BookstoreManagementApp\MVCPresentation\bin\System.Web.Razor.dll
+C:\net3\final_project_dot_net3\BookstoreManagementApp\MVCPresentation\bin\System.Web.WebPages.Deployment.dll
+C:\net3\final_project_dot_net3\BookstoreManagementApp\MVCPresentation\bin\System.Web.WebPages.dll
+C:\net3\final_project_dot_net3\BookstoreManagementApp\MVCPresentation\bin\System.Web.WebPages.Razor.dll
+C:\net3\final_project_dot_net3\BookstoreManagementApp\MVCPresentation\bin\WebActivatorEx.dll
+C:\net3\final_project_dot_net3\BookstoreManagementApp\MVCPresentation\bin\WebGrease.dll
+C:\net3\final_project_dot_net3\BookstoreManagementApp\MVCPresentation\bin\DataAccessLayerInterfaces.pdb
+C:\net3\final_project_dot_net3\BookstoreManagementApp\MVCPresentation\bin\DataAccessLayerInterfaces.dll.config
+C:\net3\final_project_dot_net3\BookstoreManagementApp\MVCPresentation\bin\DataAccessLayer.pdb
+C:\net3\final_project_dot_net3\BookstoreManagementApp\MVCPresentation\bin\DataAccessLayer.dll.config
+C:\net3\final_project_dot_net3\BookstoreManagementApp\MVCPresentation\bin\DataObjects.pdb
+C:\net3\final_project_dot_net3\BookstoreManagementApp\MVCPresentation\bin\DataObjects.dll.config
+C:\net3\final_project_dot_net3\BookstoreManagementApp\MVCPresentation\bin\LogicLayerInterfaces.pdb
+C:\net3\final_project_dot_net3\BookstoreManagementApp\MVCPresentation\bin\LogicLayerInterfaces.dll.config
+C:\net3\final_project_dot_net3\BookstoreManagementApp\MVCPresentation\bin\LogicLayer.pdb
+C:\net3\final_project_dot_net3\BookstoreManagementApp\MVCPresentation\bin\LogicLayer.dll.config
+C:\net3\final_project_dot_net3\BookstoreManagementApp\MVCPresentation\bin\Castle.Core.xml
+C:\net3\final_project_dot_net3\BookstoreManagementApp\MVCPresentation\bin\EntityFramework.xml
+C:\net3\final_project_dot_net3\BookstoreManagementApp\MVCPresentation\bin\EntityFramework.SqlServer.xml
+C:\net3\final_project_dot_net3\BookstoreManagementApp\MVCPresentation\bin\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\net3\final_project_dot_net3\BookstoreManagementApp\MVCPresentation\bin\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\net3\final_project_dot_net3\BookstoreManagementApp\MVCPresentation\bin\Moq.xml
+C:\net3\final_project_dot_net3\BookstoreManagementApp\MVCPresentation\bin\Ninject.xml
+C:\net3\final_project_dot_net3\BookstoreManagementApp\MVCPresentation\bin\Ninject.Web.Common.xml
+C:\net3\final_project_dot_net3\BookstoreManagementApp\MVCPresentation\bin\Ninject.Web.Common.WebHost.xml
+C:\net3\final_project_dot_net3\BookstoreManagementApp\MVCPresentation\bin\Ninject.Web.Mvc.xml
+C:\net3\final_project_dot_net3\BookstoreManagementApp\MVCPresentation\bin\NuGet.Frameworks.xml
+C:\net3\final_project_dot_net3\BookstoreManagementApp\MVCPresentation\bin\System.Collections.Immutable.xml
+C:\net3\final_project_dot_net3\BookstoreManagementApp\MVCPresentation\bin\System.Reflection.Metadata.xml
+C:\net3\final_project_dot_net3\BookstoreManagementApp\MVCPresentation\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\net3\final_project_dot_net3\BookstoreManagementApp\MVCPresentation\bin\System.Threading.Tasks.Extensions.xml
+C:\net3\final_project_dot_net3\BookstoreManagementApp\MVCPresentation\bin\System.Web.Helpers.xml
+C:\net3\final_project_dot_net3\BookstoreManagementApp\MVCPresentation\bin\System.Web.Mvc.xml
+C:\net3\final_project_dot_net3\BookstoreManagementApp\MVCPresentation\bin\System.Web.Razor.xml
+C:\net3\final_project_dot_net3\BookstoreManagementApp\MVCPresentation\bin\System.Web.WebPages.xml
+C:\net3\final_project_dot_net3\BookstoreManagementApp\MVCPresentation\bin\System.Web.WebPages.Deployment.xml
+C:\net3\final_project_dot_net3\BookstoreManagementApp\MVCPresentation\bin\System.Web.WebPages.Razor.xml
+C:\net3\final_project_dot_net3\BookstoreManagementApp\MVCPresentation\bin\System.Web.Optimization.xml
+C:\net3\final_project_dot_net3\BookstoreManagementApp\MVCPresentation\bin\Newtonsoft.Json.xml
+C:\net3\final_project_dot_net3\BookstoreManagementApp\MVCPresentation\bin\Antlr3.Runtime.pdb
+C:\net3\final_project_dot_net3\BookstoreManagementApp\MVCPresentation\bin\Microsoft.AspNet.Identity.Core.xml
+C:\net3\final_project_dot_net3\BookstoreManagementApp\MVCPresentation\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\net3\final_project_dot_net3\BookstoreManagementApp\MVCPresentation\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\net3\final_project_dot_net3\BookstoreManagementApp\MVCPresentation\bin\Microsoft.Owin.xml
+C:\net3\final_project_dot_net3\BookstoreManagementApp\MVCPresentation\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\net3\final_project_dot_net3\BookstoreManagementApp\MVCPresentation\bin\Microsoft.Owin.Security.xml
+C:\net3\final_project_dot_net3\BookstoreManagementApp\MVCPresentation\bin\Microsoft.Owin.Security.Facebook.xml
+C:\net3\final_project_dot_net3\BookstoreManagementApp\MVCPresentation\bin\Microsoft.Owin.Security.Cookies.xml
+C:\net3\final_project_dot_net3\BookstoreManagementApp\MVCPresentation\bin\Microsoft.Owin.Security.Google.xml
+C:\net3\final_project_dot_net3\BookstoreManagementApp\MVCPresentation\bin\Microsoft.Owin.Security.Twitter.xml
+C:\net3\final_project_dot_net3\BookstoreManagementApp\MVCPresentation\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\net3\final_project_dot_net3\BookstoreManagementApp\MVCPresentation\bin\Microsoft.Owin.Security.OAuth.xml
+C:\net3\final_project_dot_net3\BookstoreManagementApp\MVCPresentation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\net3\final_project_dot_net3\BookstoreManagementApp\MVCPresentation\bin\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\net3\final_project_dot_net3\BookstoreManagementApp\MVCPresentation\bin\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\net3\final_project_dot_net3\BookstoreManagementApp\MVCPresentation\bin\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\net3\final_project_dot_net3\BookstoreManagementApp\MVCPresentation\bin\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\net3\final_project_dot_net3\BookstoreManagementApp\MVCPresentation\bin\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\net3\final_project_dot_net3\BookstoreManagementApp\MVCPresentation\bin\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\net3\final_project_dot_net3\BookstoreManagementApp\MVCPresentation\bin\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\net3\final_project_dot_net3\BookstoreManagementApp\MVCPresentation\bin\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\net3\final_project_dot_net3\BookstoreManagementApp\MVCPresentation\bin\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\net3\final_project_dot_net3\BookstoreManagementApp\MVCPresentation\bin\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\net3\final_project_dot_net3\BookstoreManagementApp\MVCPresentation\bin\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\net3\final_project_dot_net3\BookstoreManagementApp\MVCPresentation\bin\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\net3\final_project_dot_net3\BookstoreManagementApp\MVCPresentation\bin\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\net3\final_project_dot_net3\BookstoreManagementApp\MVCPresentation\bin\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\net3\final_project_dot_net3\BookstoreManagementApp\MVCPresentation\bin\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\net3\final_project_dot_net3\BookstoreManagementApp\MVCPresentation\bin\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\net3\final_project_dot_net3\BookstoreManagementApp\MVCPresentation\bin\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\net3\final_project_dot_net3\BookstoreManagementApp\MVCPresentation\bin\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\net3\final_project_dot_net3\BookstoreManagementApp\MVCPresentation\bin\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\net3\final_project_dot_net3\BookstoreManagementApp\MVCPresentation\bin\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\net3\final_project_dot_net3\BookstoreManagementApp\MVCPresentation\bin\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\net3\final_project_dot_net3\BookstoreManagementApp\MVCPresentation\bin\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\net3\final_project_dot_net3\BookstoreManagementApp\MVCPresentation\bin\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\net3\final_project_dot_net3\BookstoreManagementApp\MVCPresentation\bin\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\net3\final_project_dot_net3\BookstoreManagementApp\MVCPresentation\bin\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\net3\final_project_dot_net3\BookstoreManagementApp\MVCPresentation\bin\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\net3\final_project_dot_net3\BookstoreManagementApp\MVCPresentation\bin\cs\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\net3\final_project_dot_net3\BookstoreManagementApp\MVCPresentation\bin\de\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\net3\final_project_dot_net3\BookstoreManagementApp\MVCPresentation\bin\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\net3\final_project_dot_net3\BookstoreManagementApp\MVCPresentation\bin\fr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\net3\final_project_dot_net3\BookstoreManagementApp\MVCPresentation\bin\it\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\net3\final_project_dot_net3\BookstoreManagementApp\MVCPresentation\bin\ja\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\net3\final_project_dot_net3\BookstoreManagementApp\MVCPresentation\bin\ko\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\net3\final_project_dot_net3\BookstoreManagementApp\MVCPresentation\bin\pl\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\net3\final_project_dot_net3\BookstoreManagementApp\MVCPresentation\bin\pt-BR\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\net3\final_project_dot_net3\BookstoreManagementApp\MVCPresentation\bin\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\net3\final_project_dot_net3\BookstoreManagementApp\MVCPresentation\bin\tr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\net3\final_project_dot_net3\BookstoreManagementApp\MVCPresentation\bin\zh-Hans\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\net3\final_project_dot_net3\BookstoreManagementApp\MVCPresentation\bin\zh-Hant\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\net3\final_project_dot_net3\BookstoreManagementApp\MVCPresentation\obj\Debug\MVCPresentation.csproj.AssemblyReference.cache
+C:\net3\final_project_dot_net3\BookstoreManagementApp\MVCPresentation\obj\Debug\MVCPresentation.Migrations.InitialCreate.resources
+C:\net3\final_project_dot_net3\BookstoreManagementApp\MVCPresentation\obj\Debug\MVCPresentation.Migrations.AddedFirstandLastNameFieldstoUser.resources
+C:\net3\final_project_dot_net3\BookstoreManagementApp\MVCPresentation\obj\Debug\MVCPresentation.Migrations.EmployeeID.resources
+C:\net3\final_project_dot_net3\BookstoreManagementApp\MVCPresentation\obj\Debug\MVCPresentation.csproj.GenerateResource.cache
+C:\net3\final_project_dot_net3\BookstoreManagementApp\MVCPresentation\obj\Debug\MVCPresentation.csproj.CoreCompileInputs.cache
+C:\net3\final_project_dot_net3\BookstoreManagementApp\MVCPresentation\obj\Debug\MVCPresentation.csproj.CopyComplete
+C:\net3\final_project_dot_net3\BookstoreManagementApp\MVCPresentation\obj\Debug\MVCPresentation.dll
+C:\net3\final_project_dot_net3\BookstoreManagementApp\MVCPresentation\obj\Debug\MVCPresentation.pdb
+C:\net3\BookstoreManagementApp\MVCPresentation\obj\Debug\MVCPresentation.csproj.AssemblyReference.cache
+C:\net3\BookstoreManagementApp\MVCPresentation\obj\Debug\MVCPresentation.Migrations.InitialCreate.resources
+C:\net3\BookstoreManagementApp\MVCPresentation\obj\Debug\MVCPresentation.Migrations.AddedFirstandLastNameFieldstoUser.resources
+C:\net3\BookstoreManagementApp\MVCPresentation\obj\Debug\MVCPresentation.Migrations.EmployeeID.resources
+C:\net3\BookstoreManagementApp\MVCPresentation\obj\Debug\MVCPresentation.csproj.GenerateResource.cache
+C:\net3\BookstoreManagementApp\MVCPresentation\obj\Debug\MVCPresentation.csproj.CoreCompileInputs.cache
+C:\net3\BookstoreManagementApp\MVCPresentation\bin\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\net3\BookstoreManagementApp\MVCPresentation\bin\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\net3\BookstoreManagementApp\MVCPresentation\bin\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\net3\BookstoreManagementApp\MVCPresentation\bin\MVCPresentation.dll.config
+C:\net3\BookstoreManagementApp\MVCPresentation\bin\MVCPresentation.dll
+C:\net3\BookstoreManagementApp\MVCPresentation\bin\MVCPresentation.pdb
+C:\net3\BookstoreManagementApp\MVCPresentation\bin\roslyn\csc.exe
+C:\net3\BookstoreManagementApp\MVCPresentation\bin\roslyn\csc.exe.config
+C:\net3\BookstoreManagementApp\MVCPresentation\bin\roslyn\csc.rsp
+C:\net3\BookstoreManagementApp\MVCPresentation\bin\roslyn\csi.exe
+C:\net3\BookstoreManagementApp\MVCPresentation\bin\roslyn\csi.exe.config
+C:\net3\BookstoreManagementApp\MVCPresentation\bin\roslyn\csi.rsp
+C:\net3\BookstoreManagementApp\MVCPresentation\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\net3\BookstoreManagementApp\MVCPresentation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\net3\BookstoreManagementApp\MVCPresentation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\net3\BookstoreManagementApp\MVCPresentation\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\net3\BookstoreManagementApp\MVCPresentation\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\net3\BookstoreManagementApp\MVCPresentation\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\net3\BookstoreManagementApp\MVCPresentation\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\net3\BookstoreManagementApp\MVCPresentation\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\net3\BookstoreManagementApp\MVCPresentation\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\net3\BookstoreManagementApp\MVCPresentation\bin\roslyn\Microsoft.Managed.Core.targets
+C:\net3\BookstoreManagementApp\MVCPresentation\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\net3\BookstoreManagementApp\MVCPresentation\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\net3\BookstoreManagementApp\MVCPresentation\bin\roslyn\System.AppContext.dll
+C:\net3\BookstoreManagementApp\MVCPresentation\bin\roslyn\System.Collections.Immutable.dll
+C:\net3\BookstoreManagementApp\MVCPresentation\bin\roslyn\System.Console.dll
+C:\net3\BookstoreManagementApp\MVCPresentation\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\net3\BookstoreManagementApp\MVCPresentation\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\net3\BookstoreManagementApp\MVCPresentation\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\net3\BookstoreManagementApp\MVCPresentation\bin\roslyn\System.Globalization.Calendars.dll
+C:\net3\BookstoreManagementApp\MVCPresentation\bin\roslyn\System.IO.Compression.dll
+C:\net3\BookstoreManagementApp\MVCPresentation\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\net3\BookstoreManagementApp\MVCPresentation\bin\roslyn\System.IO.FileSystem.dll
+C:\net3\BookstoreManagementApp\MVCPresentation\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\net3\BookstoreManagementApp\MVCPresentation\bin\roslyn\System.Net.Http.dll
+C:\net3\BookstoreManagementApp\MVCPresentation\bin\roslyn\System.Net.Sockets.dll
+C:\net3\BookstoreManagementApp\MVCPresentation\bin\roslyn\System.Reflection.Metadata.dll
+C:\net3\BookstoreManagementApp\MVCPresentation\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\net3\BookstoreManagementApp\MVCPresentation\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\net3\BookstoreManagementApp\MVCPresentation\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\net3\BookstoreManagementApp\MVCPresentation\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\net3\BookstoreManagementApp\MVCPresentation\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\net3\BookstoreManagementApp\MVCPresentation\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\net3\BookstoreManagementApp\MVCPresentation\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\net3\BookstoreManagementApp\MVCPresentation\bin\roslyn\System.ValueTuple.dll
+C:\net3\BookstoreManagementApp\MVCPresentation\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\net3\BookstoreManagementApp\MVCPresentation\bin\roslyn\System.Xml.XmlDocument.dll
+C:\net3\BookstoreManagementApp\MVCPresentation\bin\roslyn\System.Xml.XPath.dll
+C:\net3\BookstoreManagementApp\MVCPresentation\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\net3\BookstoreManagementApp\MVCPresentation\bin\roslyn\vbc.exe
+C:\net3\BookstoreManagementApp\MVCPresentation\bin\roslyn\vbc.exe.config
+C:\net3\BookstoreManagementApp\MVCPresentation\bin\roslyn\vbc.rsp
+C:\net3\BookstoreManagementApp\MVCPresentation\bin\roslyn\VBCSCompiler.exe
+C:\net3\BookstoreManagementApp\MVCPresentation\bin\roslyn\VBCSCompiler.exe.config
+C:\net3\BookstoreManagementApp\MVCPresentation\bin\Antlr3.Runtime.dll
+C:\net3\BookstoreManagementApp\MVCPresentation\bin\Castle.Core.dll
+C:\net3\BookstoreManagementApp\MVCPresentation\bin\DataAccessLayer.dll
+C:\net3\BookstoreManagementApp\MVCPresentation\bin\DataAccessLayerInterfaces.dll
+C:\net3\BookstoreManagementApp\MVCPresentation\bin\DataObjects.dll
+C:\net3\BookstoreManagementApp\MVCPresentation\bin\EntityFramework.dll
+C:\net3\BookstoreManagementApp\MVCPresentation\bin\EntityFramework.SqlServer.dll
+C:\net3\BookstoreManagementApp\MVCPresentation\bin\LogicLayer.dll
+C:\net3\BookstoreManagementApp\MVCPresentation\bin\LogicLayerInterfaces.dll
+C:\net3\BookstoreManagementApp\MVCPresentation\bin\Microsoft.AspNet.Identity.Core.dll
+C:\net3\BookstoreManagementApp\MVCPresentation\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\net3\BookstoreManagementApp\MVCPresentation\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\net3\BookstoreManagementApp\MVCPresentation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\net3\BookstoreManagementApp\MVCPresentation\bin\Microsoft.Owin.dll
+C:\net3\BookstoreManagementApp\MVCPresentation\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\net3\BookstoreManagementApp\MVCPresentation\bin\Microsoft.Owin.Security.Cookies.dll
+C:\net3\BookstoreManagementApp\MVCPresentation\bin\Microsoft.Owin.Security.dll
+C:\net3\BookstoreManagementApp\MVCPresentation\bin\Microsoft.Owin.Security.Facebook.dll
+C:\net3\BookstoreManagementApp\MVCPresentation\bin\Microsoft.Owin.Security.Google.dll
+C:\net3\BookstoreManagementApp\MVCPresentation\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\net3\BookstoreManagementApp\MVCPresentation\bin\Microsoft.Owin.Security.OAuth.dll
+C:\net3\BookstoreManagementApp\MVCPresentation\bin\Microsoft.Owin.Security.Twitter.dll
+C:\net3\BookstoreManagementApp\MVCPresentation\bin\Microsoft.TestPlatform.CoreUtilities.dll
+C:\net3\BookstoreManagementApp\MVCPresentation\bin\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\net3\BookstoreManagementApp\MVCPresentation\bin\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\net3\BookstoreManagementApp\MVCPresentation\bin\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\net3\BookstoreManagementApp\MVCPresentation\bin\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\net3\BookstoreManagementApp\MVCPresentation\bin\Microsoft.Web.Infrastructure.dll
+C:\net3\BookstoreManagementApp\MVCPresentation\bin\Moq.dll
+C:\net3\BookstoreManagementApp\MVCPresentation\bin\Newtonsoft.Json.dll
+C:\net3\BookstoreManagementApp\MVCPresentation\bin\Ninject.dll
+C:\net3\BookstoreManagementApp\MVCPresentation\bin\Ninject.Web.Common.dll
+C:\net3\BookstoreManagementApp\MVCPresentation\bin\Ninject.Web.Common.WebHost.dll
+C:\net3\BookstoreManagementApp\MVCPresentation\bin\Ninject.Web.Mvc.dll
+C:\net3\BookstoreManagementApp\MVCPresentation\bin\NuGet.Frameworks.dll
+C:\net3\BookstoreManagementApp\MVCPresentation\bin\Owin.dll
+C:\net3\BookstoreManagementApp\MVCPresentation\bin\System.Collections.Immutable.dll
+C:\net3\BookstoreManagementApp\MVCPresentation\bin\System.Reflection.Metadata.dll
+C:\net3\BookstoreManagementApp\MVCPresentation\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\net3\BookstoreManagementApp\MVCPresentation\bin\System.Threading.Tasks.Extensions.dll
+C:\net3\BookstoreManagementApp\MVCPresentation\bin\System.Web.Helpers.dll
+C:\net3\BookstoreManagementApp\MVCPresentation\bin\System.Web.Mvc.dll
+C:\net3\BookstoreManagementApp\MVCPresentation\bin\System.Web.Optimization.dll
+C:\net3\BookstoreManagementApp\MVCPresentation\bin\System.Web.Razor.dll
+C:\net3\BookstoreManagementApp\MVCPresentation\bin\System.Web.WebPages.Deployment.dll
+C:\net3\BookstoreManagementApp\MVCPresentation\bin\System.Web.WebPages.dll
+C:\net3\BookstoreManagementApp\MVCPresentation\bin\System.Web.WebPages.Razor.dll
+C:\net3\BookstoreManagementApp\MVCPresentation\bin\WebActivatorEx.dll
+C:\net3\BookstoreManagementApp\MVCPresentation\bin\WebGrease.dll
+C:\net3\BookstoreManagementApp\MVCPresentation\bin\DataAccessLayerInterfaces.pdb
+C:\net3\BookstoreManagementApp\MVCPresentation\bin\DataAccessLayerInterfaces.dll.config
+C:\net3\BookstoreManagementApp\MVCPresentation\bin\DataAccessLayer.pdb
+C:\net3\BookstoreManagementApp\MVCPresentation\bin\DataAccessLayer.dll.config
+C:\net3\BookstoreManagementApp\MVCPresentation\bin\DataObjects.pdb
+C:\net3\BookstoreManagementApp\MVCPresentation\bin\DataObjects.dll.config
+C:\net3\BookstoreManagementApp\MVCPresentation\bin\LogicLayerInterfaces.pdb
+C:\net3\BookstoreManagementApp\MVCPresentation\bin\LogicLayerInterfaces.dll.config
+C:\net3\BookstoreManagementApp\MVCPresentation\bin\LogicLayer.pdb
+C:\net3\BookstoreManagementApp\MVCPresentation\bin\LogicLayer.dll.config
+C:\net3\BookstoreManagementApp\MVCPresentation\bin\Castle.Core.xml
+C:\net3\BookstoreManagementApp\MVCPresentation\bin\EntityFramework.xml
+C:\net3\BookstoreManagementApp\MVCPresentation\bin\EntityFramework.SqlServer.xml
+C:\net3\BookstoreManagementApp\MVCPresentation\bin\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\net3\BookstoreManagementApp\MVCPresentation\bin\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\net3\BookstoreManagementApp\MVCPresentation\bin\Moq.xml
+C:\net3\BookstoreManagementApp\MVCPresentation\bin\Ninject.xml
+C:\net3\BookstoreManagementApp\MVCPresentation\bin\Ninject.Web.Common.xml
+C:\net3\BookstoreManagementApp\MVCPresentation\bin\Ninject.Web.Common.WebHost.xml
+C:\net3\BookstoreManagementApp\MVCPresentation\bin\Ninject.Web.Mvc.xml
+C:\net3\BookstoreManagementApp\MVCPresentation\bin\NuGet.Frameworks.xml
+C:\net3\BookstoreManagementApp\MVCPresentation\bin\System.Collections.Immutable.xml
+C:\net3\BookstoreManagementApp\MVCPresentation\bin\System.Reflection.Metadata.xml
+C:\net3\BookstoreManagementApp\MVCPresentation\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\net3\BookstoreManagementApp\MVCPresentation\bin\System.Threading.Tasks.Extensions.xml
+C:\net3\BookstoreManagementApp\MVCPresentation\bin\System.Web.Helpers.xml
+C:\net3\BookstoreManagementApp\MVCPresentation\bin\System.Web.Mvc.xml
+C:\net3\BookstoreManagementApp\MVCPresentation\bin\System.Web.Razor.xml
+C:\net3\BookstoreManagementApp\MVCPresentation\bin\System.Web.WebPages.xml
+C:\net3\BookstoreManagementApp\MVCPresentation\bin\System.Web.WebPages.Deployment.xml
+C:\net3\BookstoreManagementApp\MVCPresentation\bin\System.Web.WebPages.Razor.xml
+C:\net3\BookstoreManagementApp\MVCPresentation\bin\System.Web.Optimization.xml
+C:\net3\BookstoreManagementApp\MVCPresentation\bin\Newtonsoft.Json.xml
+C:\net3\BookstoreManagementApp\MVCPresentation\bin\Antlr3.Runtime.pdb
+C:\net3\BookstoreManagementApp\MVCPresentation\bin\Microsoft.AspNet.Identity.Core.xml
+C:\net3\BookstoreManagementApp\MVCPresentation\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\net3\BookstoreManagementApp\MVCPresentation\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\net3\BookstoreManagementApp\MVCPresentation\bin\Microsoft.Owin.xml
+C:\net3\BookstoreManagementApp\MVCPresentation\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\net3\BookstoreManagementApp\MVCPresentation\bin\Microsoft.Owin.Security.xml
+C:\net3\BookstoreManagementApp\MVCPresentation\bin\Microsoft.Owin.Security.Facebook.xml
+C:\net3\BookstoreManagementApp\MVCPresentation\bin\Microsoft.Owin.Security.Cookies.xml
+C:\net3\BookstoreManagementApp\MVCPresentation\bin\Microsoft.Owin.Security.Google.xml
+C:\net3\BookstoreManagementApp\MVCPresentation\bin\Microsoft.Owin.Security.Twitter.xml
+C:\net3\BookstoreManagementApp\MVCPresentation\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\net3\BookstoreManagementApp\MVCPresentation\bin\Microsoft.Owin.Security.OAuth.xml
+C:\net3\BookstoreManagementApp\MVCPresentation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\net3\BookstoreManagementApp\MVCPresentation\bin\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\net3\BookstoreManagementApp\MVCPresentation\bin\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\net3\BookstoreManagementApp\MVCPresentation\bin\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\net3\BookstoreManagementApp\MVCPresentation\bin\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\net3\BookstoreManagementApp\MVCPresentation\bin\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\net3\BookstoreManagementApp\MVCPresentation\bin\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\net3\BookstoreManagementApp\MVCPresentation\bin\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\net3\BookstoreManagementApp\MVCPresentation\bin\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\net3\BookstoreManagementApp\MVCPresentation\bin\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\net3\BookstoreManagementApp\MVCPresentation\bin\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\net3\BookstoreManagementApp\MVCPresentation\bin\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\net3\BookstoreManagementApp\MVCPresentation\bin\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\net3\BookstoreManagementApp\MVCPresentation\bin\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\net3\BookstoreManagementApp\MVCPresentation\bin\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\net3\BookstoreManagementApp\MVCPresentation\bin\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\net3\BookstoreManagementApp\MVCPresentation\bin\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\net3\BookstoreManagementApp\MVCPresentation\bin\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\net3\BookstoreManagementApp\MVCPresentation\bin\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\net3\BookstoreManagementApp\MVCPresentation\bin\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\net3\BookstoreManagementApp\MVCPresentation\bin\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\net3\BookstoreManagementApp\MVCPresentation\bin\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\net3\BookstoreManagementApp\MVCPresentation\bin\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\net3\BookstoreManagementApp\MVCPresentation\bin\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\net3\BookstoreManagementApp\MVCPresentation\bin\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\net3\BookstoreManagementApp\MVCPresentation\bin\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\net3\BookstoreManagementApp\MVCPresentation\bin\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\net3\BookstoreManagementApp\MVCPresentation\bin\cs\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\net3\BookstoreManagementApp\MVCPresentation\bin\de\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\net3\BookstoreManagementApp\MVCPresentation\bin\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\net3\BookstoreManagementApp\MVCPresentation\bin\fr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\net3\BookstoreManagementApp\MVCPresentation\bin\it\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\net3\BookstoreManagementApp\MVCPresentation\bin\ja\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\net3\BookstoreManagementApp\MVCPresentation\bin\ko\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\net3\BookstoreManagementApp\MVCPresentation\bin\pl\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\net3\BookstoreManagementApp\MVCPresentation\bin\pt-BR\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\net3\BookstoreManagementApp\MVCPresentation\bin\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\net3\BookstoreManagementApp\MVCPresentation\bin\tr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\net3\BookstoreManagementApp\MVCPresentation\bin\zh-Hans\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\net3\BookstoreManagementApp\MVCPresentation\bin\zh-Hant\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\net3\BookstoreManagementApp\MVCPresentation\obj\Debug\MVCPresentation.csproj.CopyComplete
+C:\net3\BookstoreManagementApp\MVCPresentation\obj\Debug\MVCPresentation.dll
+C:\net3\BookstoreManagementApp\MVCPresentation\obj\Debug\MVCPresentation.pdb
+C:\net3\Final Project Dot Net 3\BookstoreManagementApp\MVCPresentation\bin\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\net3\Final Project Dot Net 3\BookstoreManagementApp\MVCPresentation\bin\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\net3\Final Project Dot Net 3\BookstoreManagementApp\MVCPresentation\bin\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\net3\Final Project Dot Net 3\BookstoreManagementApp\MVCPresentation\bin\MVCPresentation.dll.config
+C:\net3\Final Project Dot Net 3\BookstoreManagementApp\MVCPresentation\bin\MVCPresentation.dll
+C:\net3\Final Project Dot Net 3\BookstoreManagementApp\MVCPresentation\bin\MVCPresentation.pdb
+C:\net3\Final Project Dot Net 3\BookstoreManagementApp\MVCPresentation\bin\roslyn\csc.exe
+C:\net3\Final Project Dot Net 3\BookstoreManagementApp\MVCPresentation\bin\roslyn\csc.exe.config
+C:\net3\Final Project Dot Net 3\BookstoreManagementApp\MVCPresentation\bin\roslyn\csc.rsp
+C:\net3\Final Project Dot Net 3\BookstoreManagementApp\MVCPresentation\bin\roslyn\csi.exe
+C:\net3\Final Project Dot Net 3\BookstoreManagementApp\MVCPresentation\bin\roslyn\csi.exe.config
+C:\net3\Final Project Dot Net 3\BookstoreManagementApp\MVCPresentation\bin\roslyn\csi.rsp
+C:\net3\Final Project Dot Net 3\BookstoreManagementApp\MVCPresentation\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\net3\Final Project Dot Net 3\BookstoreManagementApp\MVCPresentation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\net3\Final Project Dot Net 3\BookstoreManagementApp\MVCPresentation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\net3\Final Project Dot Net 3\BookstoreManagementApp\MVCPresentation\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\net3\Final Project Dot Net 3\BookstoreManagementApp\MVCPresentation\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\net3\Final Project Dot Net 3\BookstoreManagementApp\MVCPresentation\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\net3\Final Project Dot Net 3\BookstoreManagementApp\MVCPresentation\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\net3\Final Project Dot Net 3\BookstoreManagementApp\MVCPresentation\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\net3\Final Project Dot Net 3\BookstoreManagementApp\MVCPresentation\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\net3\Final Project Dot Net 3\BookstoreManagementApp\MVCPresentation\bin\roslyn\Microsoft.Managed.Core.targets
+C:\net3\Final Project Dot Net 3\BookstoreManagementApp\MVCPresentation\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\net3\Final Project Dot Net 3\BookstoreManagementApp\MVCPresentation\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\net3\Final Project Dot Net 3\BookstoreManagementApp\MVCPresentation\bin\roslyn\System.AppContext.dll
+C:\net3\Final Project Dot Net 3\BookstoreManagementApp\MVCPresentation\bin\roslyn\System.Collections.Immutable.dll
+C:\net3\Final Project Dot Net 3\BookstoreManagementApp\MVCPresentation\bin\roslyn\System.Console.dll
+C:\net3\Final Project Dot Net 3\BookstoreManagementApp\MVCPresentation\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\net3\Final Project Dot Net 3\BookstoreManagementApp\MVCPresentation\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\net3\Final Project Dot Net 3\BookstoreManagementApp\MVCPresentation\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\net3\Final Project Dot Net 3\BookstoreManagementApp\MVCPresentation\bin\roslyn\System.Globalization.Calendars.dll
+C:\net3\Final Project Dot Net 3\BookstoreManagementApp\MVCPresentation\bin\roslyn\System.IO.Compression.dll
+C:\net3\Final Project Dot Net 3\BookstoreManagementApp\MVCPresentation\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\net3\Final Project Dot Net 3\BookstoreManagementApp\MVCPresentation\bin\roslyn\System.IO.FileSystem.dll
+C:\net3\Final Project Dot Net 3\BookstoreManagementApp\MVCPresentation\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\net3\Final Project Dot Net 3\BookstoreManagementApp\MVCPresentation\bin\roslyn\System.Net.Http.dll
+C:\net3\Final Project Dot Net 3\BookstoreManagementApp\MVCPresentation\bin\roslyn\System.Net.Sockets.dll
+C:\net3\Final Project Dot Net 3\BookstoreManagementApp\MVCPresentation\bin\roslyn\System.Reflection.Metadata.dll
+C:\net3\Final Project Dot Net 3\BookstoreManagementApp\MVCPresentation\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\net3\Final Project Dot Net 3\BookstoreManagementApp\MVCPresentation\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\net3\Final Project Dot Net 3\BookstoreManagementApp\MVCPresentation\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\net3\Final Project Dot Net 3\BookstoreManagementApp\MVCPresentation\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\net3\Final Project Dot Net 3\BookstoreManagementApp\MVCPresentation\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\net3\Final Project Dot Net 3\BookstoreManagementApp\MVCPresentation\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\net3\Final Project Dot Net 3\BookstoreManagementApp\MVCPresentation\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\net3\Final Project Dot Net 3\BookstoreManagementApp\MVCPresentation\bin\roslyn\System.ValueTuple.dll
+C:\net3\Final Project Dot Net 3\BookstoreManagementApp\MVCPresentation\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\net3\Final Project Dot Net 3\BookstoreManagementApp\MVCPresentation\bin\roslyn\System.Xml.XmlDocument.dll
+C:\net3\Final Project Dot Net 3\BookstoreManagementApp\MVCPresentation\bin\roslyn\System.Xml.XPath.dll
+C:\net3\Final Project Dot Net 3\BookstoreManagementApp\MVCPresentation\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\net3\Final Project Dot Net 3\BookstoreManagementApp\MVCPresentation\bin\roslyn\vbc.exe
+C:\net3\Final Project Dot Net 3\BookstoreManagementApp\MVCPresentation\bin\roslyn\vbc.exe.config
+C:\net3\Final Project Dot Net 3\BookstoreManagementApp\MVCPresentation\bin\roslyn\vbc.rsp
+C:\net3\Final Project Dot Net 3\BookstoreManagementApp\MVCPresentation\bin\roslyn\VBCSCompiler.exe
+C:\net3\Final Project Dot Net 3\BookstoreManagementApp\MVCPresentation\bin\roslyn\VBCSCompiler.exe.config
+C:\net3\Final Project Dot Net 3\BookstoreManagementApp\MVCPresentation\bin\Antlr3.Runtime.dll
+C:\net3\Final Project Dot Net 3\BookstoreManagementApp\MVCPresentation\bin\Castle.Core.dll
+C:\net3\Final Project Dot Net 3\BookstoreManagementApp\MVCPresentation\bin\DataAccessLayer.dll
+C:\net3\Final Project Dot Net 3\BookstoreManagementApp\MVCPresentation\bin\DataAccessLayerInterfaces.dll
+C:\net3\Final Project Dot Net 3\BookstoreManagementApp\MVCPresentation\bin\DataObjects.dll
+C:\net3\Final Project Dot Net 3\BookstoreManagementApp\MVCPresentation\bin\EntityFramework.dll
+C:\net3\Final Project Dot Net 3\BookstoreManagementApp\MVCPresentation\bin\EntityFramework.SqlServer.dll
+C:\net3\Final Project Dot Net 3\BookstoreManagementApp\MVCPresentation\bin\LogicLayer.dll
+C:\net3\Final Project Dot Net 3\BookstoreManagementApp\MVCPresentation\bin\LogicLayerInterfaces.dll
+C:\net3\Final Project Dot Net 3\BookstoreManagementApp\MVCPresentation\bin\Microsoft.AspNet.Identity.Core.dll
+C:\net3\Final Project Dot Net 3\BookstoreManagementApp\MVCPresentation\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\net3\Final Project Dot Net 3\BookstoreManagementApp\MVCPresentation\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\net3\Final Project Dot Net 3\BookstoreManagementApp\MVCPresentation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\net3\Final Project Dot Net 3\BookstoreManagementApp\MVCPresentation\bin\Microsoft.Owin.dll
+C:\net3\Final Project Dot Net 3\BookstoreManagementApp\MVCPresentation\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\net3\Final Project Dot Net 3\BookstoreManagementApp\MVCPresentation\bin\Microsoft.Owin.Security.Cookies.dll
+C:\net3\Final Project Dot Net 3\BookstoreManagementApp\MVCPresentation\bin\Microsoft.Owin.Security.dll
+C:\net3\Final Project Dot Net 3\BookstoreManagementApp\MVCPresentation\bin\Microsoft.Owin.Security.Facebook.dll
+C:\net3\Final Project Dot Net 3\BookstoreManagementApp\MVCPresentation\bin\Microsoft.Owin.Security.Google.dll
+C:\net3\Final Project Dot Net 3\BookstoreManagementApp\MVCPresentation\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\net3\Final Project Dot Net 3\BookstoreManagementApp\MVCPresentation\bin\Microsoft.Owin.Security.OAuth.dll
+C:\net3\Final Project Dot Net 3\BookstoreManagementApp\MVCPresentation\bin\Microsoft.Owin.Security.Twitter.dll
+C:\net3\Final Project Dot Net 3\BookstoreManagementApp\MVCPresentation\bin\Microsoft.TestPlatform.CoreUtilities.dll
+C:\net3\Final Project Dot Net 3\BookstoreManagementApp\MVCPresentation\bin\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\net3\Final Project Dot Net 3\BookstoreManagementApp\MVCPresentation\bin\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\net3\Final Project Dot Net 3\BookstoreManagementApp\MVCPresentation\bin\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\net3\Final Project Dot Net 3\BookstoreManagementApp\MVCPresentation\bin\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\net3\Final Project Dot Net 3\BookstoreManagementApp\MVCPresentation\bin\Microsoft.Web.Infrastructure.dll
+C:\net3\Final Project Dot Net 3\BookstoreManagementApp\MVCPresentation\bin\Moq.dll
+C:\net3\Final Project Dot Net 3\BookstoreManagementApp\MVCPresentation\bin\Newtonsoft.Json.dll
+C:\net3\Final Project Dot Net 3\BookstoreManagementApp\MVCPresentation\bin\Ninject.dll
+C:\net3\Final Project Dot Net 3\BookstoreManagementApp\MVCPresentation\bin\Ninject.Web.Common.dll
+C:\net3\Final Project Dot Net 3\BookstoreManagementApp\MVCPresentation\bin\Ninject.Web.Common.WebHost.dll
+C:\net3\Final Project Dot Net 3\BookstoreManagementApp\MVCPresentation\bin\Ninject.Web.Mvc.dll
+C:\net3\Final Project Dot Net 3\BookstoreManagementApp\MVCPresentation\bin\NuGet.Frameworks.dll
+C:\net3\Final Project Dot Net 3\BookstoreManagementApp\MVCPresentation\bin\Owin.dll
+C:\net3\Final Project Dot Net 3\BookstoreManagementApp\MVCPresentation\bin\System.Collections.Immutable.dll
+C:\net3\Final Project Dot Net 3\BookstoreManagementApp\MVCPresentation\bin\System.Reflection.Metadata.dll
+C:\net3\Final Project Dot Net 3\BookstoreManagementApp\MVCPresentation\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\net3\Final Project Dot Net 3\BookstoreManagementApp\MVCPresentation\bin\System.Threading.Tasks.Extensions.dll
+C:\net3\Final Project Dot Net 3\BookstoreManagementApp\MVCPresentation\bin\System.Web.Helpers.dll
+C:\net3\Final Project Dot Net 3\BookstoreManagementApp\MVCPresentation\bin\System.Web.Mvc.dll
+C:\net3\Final Project Dot Net 3\BookstoreManagementApp\MVCPresentation\bin\System.Web.Optimization.dll
+C:\net3\Final Project Dot Net 3\BookstoreManagementApp\MVCPresentation\bin\System.Web.Razor.dll
+C:\net3\Final Project Dot Net 3\BookstoreManagementApp\MVCPresentation\bin\System.Web.WebPages.Deployment.dll
+C:\net3\Final Project Dot Net 3\BookstoreManagementApp\MVCPresentation\bin\System.Web.WebPages.dll
+C:\net3\Final Project Dot Net 3\BookstoreManagementApp\MVCPresentation\bin\System.Web.WebPages.Razor.dll
+C:\net3\Final Project Dot Net 3\BookstoreManagementApp\MVCPresentation\bin\WebActivatorEx.dll
+C:\net3\Final Project Dot Net 3\BookstoreManagementApp\MVCPresentation\bin\WebGrease.dll
+C:\net3\Final Project Dot Net 3\BookstoreManagementApp\MVCPresentation\bin\DataAccessLayerInterfaces.pdb
+C:\net3\Final Project Dot Net 3\BookstoreManagementApp\MVCPresentation\bin\DataAccessLayerInterfaces.dll.config
+C:\net3\Final Project Dot Net 3\BookstoreManagementApp\MVCPresentation\bin\DataAccessLayer.pdb
+C:\net3\Final Project Dot Net 3\BookstoreManagementApp\MVCPresentation\bin\DataAccessLayer.dll.config
+C:\net3\Final Project Dot Net 3\BookstoreManagementApp\MVCPresentation\bin\DataObjects.pdb
+C:\net3\Final Project Dot Net 3\BookstoreManagementApp\MVCPresentation\bin\DataObjects.dll.config
+C:\net3\Final Project Dot Net 3\BookstoreManagementApp\MVCPresentation\bin\LogicLayerInterfaces.pdb
+C:\net3\Final Project Dot Net 3\BookstoreManagementApp\MVCPresentation\bin\LogicLayerInterfaces.dll.config
+C:\net3\Final Project Dot Net 3\BookstoreManagementApp\MVCPresentation\bin\LogicLayer.pdb
+C:\net3\Final Project Dot Net 3\BookstoreManagementApp\MVCPresentation\bin\LogicLayer.dll.config
+C:\net3\Final Project Dot Net 3\BookstoreManagementApp\MVCPresentation\bin\Castle.Core.xml
+C:\net3\Final Project Dot Net 3\BookstoreManagementApp\MVCPresentation\bin\EntityFramework.xml
+C:\net3\Final Project Dot Net 3\BookstoreManagementApp\MVCPresentation\bin\EntityFramework.SqlServer.xml
+C:\net3\Final Project Dot Net 3\BookstoreManagementApp\MVCPresentation\bin\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\net3\Final Project Dot Net 3\BookstoreManagementApp\MVCPresentation\bin\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\net3\Final Project Dot Net 3\BookstoreManagementApp\MVCPresentation\bin\Moq.xml
+C:\net3\Final Project Dot Net 3\BookstoreManagementApp\MVCPresentation\bin\Ninject.xml
+C:\net3\Final Project Dot Net 3\BookstoreManagementApp\MVCPresentation\bin\Ninject.Web.Common.xml
+C:\net3\Final Project Dot Net 3\BookstoreManagementApp\MVCPresentation\bin\Ninject.Web.Common.WebHost.xml
+C:\net3\Final Project Dot Net 3\BookstoreManagementApp\MVCPresentation\bin\Ninject.Web.Mvc.xml
+C:\net3\Final Project Dot Net 3\BookstoreManagementApp\MVCPresentation\bin\NuGet.Frameworks.xml
+C:\net3\Final Project Dot Net 3\BookstoreManagementApp\MVCPresentation\bin\System.Collections.Immutable.xml
+C:\net3\Final Project Dot Net 3\BookstoreManagementApp\MVCPresentation\bin\System.Reflection.Metadata.xml
+C:\net3\Final Project Dot Net 3\BookstoreManagementApp\MVCPresentation\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\net3\Final Project Dot Net 3\BookstoreManagementApp\MVCPresentation\bin\System.Threading.Tasks.Extensions.xml
+C:\net3\Final Project Dot Net 3\BookstoreManagementApp\MVCPresentation\bin\System.Web.Helpers.xml
+C:\net3\Final Project Dot Net 3\BookstoreManagementApp\MVCPresentation\bin\System.Web.Mvc.xml
+C:\net3\Final Project Dot Net 3\BookstoreManagementApp\MVCPresentation\bin\System.Web.Razor.xml
+C:\net3\Final Project Dot Net 3\BookstoreManagementApp\MVCPresentation\bin\System.Web.WebPages.xml
+C:\net3\Final Project Dot Net 3\BookstoreManagementApp\MVCPresentation\bin\System.Web.WebPages.Deployment.xml
+C:\net3\Final Project Dot Net 3\BookstoreManagementApp\MVCPresentation\bin\System.Web.WebPages.Razor.xml
+C:\net3\Final Project Dot Net 3\BookstoreManagementApp\MVCPresentation\bin\System.Web.Optimization.xml
+C:\net3\Final Project Dot Net 3\BookstoreManagementApp\MVCPresentation\bin\Newtonsoft.Json.xml
+C:\net3\Final Project Dot Net 3\BookstoreManagementApp\MVCPresentation\bin\Antlr3.Runtime.pdb
+C:\net3\Final Project Dot Net 3\BookstoreManagementApp\MVCPresentation\bin\Microsoft.AspNet.Identity.Core.xml
+C:\net3\Final Project Dot Net 3\BookstoreManagementApp\MVCPresentation\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\net3\Final Project Dot Net 3\BookstoreManagementApp\MVCPresentation\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\net3\Final Project Dot Net 3\BookstoreManagementApp\MVCPresentation\bin\Microsoft.Owin.xml
+C:\net3\Final Project Dot Net 3\BookstoreManagementApp\MVCPresentation\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\net3\Final Project Dot Net 3\BookstoreManagementApp\MVCPresentation\bin\Microsoft.Owin.Security.xml
+C:\net3\Final Project Dot Net 3\BookstoreManagementApp\MVCPresentation\bin\Microsoft.Owin.Security.Facebook.xml
+C:\net3\Final Project Dot Net 3\BookstoreManagementApp\MVCPresentation\bin\Microsoft.Owin.Security.Cookies.xml
+C:\net3\Final Project Dot Net 3\BookstoreManagementApp\MVCPresentation\bin\Microsoft.Owin.Security.Google.xml
+C:\net3\Final Project Dot Net 3\BookstoreManagementApp\MVCPresentation\bin\Microsoft.Owin.Security.Twitter.xml
+C:\net3\Final Project Dot Net 3\BookstoreManagementApp\MVCPresentation\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\net3\Final Project Dot Net 3\BookstoreManagementApp\MVCPresentation\bin\Microsoft.Owin.Security.OAuth.xml
+C:\net3\Final Project Dot Net 3\BookstoreManagementApp\MVCPresentation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\net3\Final Project Dot Net 3\BookstoreManagementApp\MVCPresentation\bin\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\net3\Final Project Dot Net 3\BookstoreManagementApp\MVCPresentation\bin\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\net3\Final Project Dot Net 3\BookstoreManagementApp\MVCPresentation\bin\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\net3\Final Project Dot Net 3\BookstoreManagementApp\MVCPresentation\bin\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\net3\Final Project Dot Net 3\BookstoreManagementApp\MVCPresentation\bin\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\net3\Final Project Dot Net 3\BookstoreManagementApp\MVCPresentation\bin\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\net3\Final Project Dot Net 3\BookstoreManagementApp\MVCPresentation\bin\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\net3\Final Project Dot Net 3\BookstoreManagementApp\MVCPresentation\bin\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\net3\Final Project Dot Net 3\BookstoreManagementApp\MVCPresentation\bin\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\net3\Final Project Dot Net 3\BookstoreManagementApp\MVCPresentation\bin\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\net3\Final Project Dot Net 3\BookstoreManagementApp\MVCPresentation\bin\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\net3\Final Project Dot Net 3\BookstoreManagementApp\MVCPresentation\bin\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\net3\Final Project Dot Net 3\BookstoreManagementApp\MVCPresentation\bin\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\net3\Final Project Dot Net 3\BookstoreManagementApp\MVCPresentation\bin\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\net3\Final Project Dot Net 3\BookstoreManagementApp\MVCPresentation\bin\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\net3\Final Project Dot Net 3\BookstoreManagementApp\MVCPresentation\bin\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\net3\Final Project Dot Net 3\BookstoreManagementApp\MVCPresentation\bin\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\net3\Final Project Dot Net 3\BookstoreManagementApp\MVCPresentation\bin\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\net3\Final Project Dot Net 3\BookstoreManagementApp\MVCPresentation\bin\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\net3\Final Project Dot Net 3\BookstoreManagementApp\MVCPresentation\bin\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\net3\Final Project Dot Net 3\BookstoreManagementApp\MVCPresentation\bin\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\net3\Final Project Dot Net 3\BookstoreManagementApp\MVCPresentation\bin\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\net3\Final Project Dot Net 3\BookstoreManagementApp\MVCPresentation\bin\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\net3\Final Project Dot Net 3\BookstoreManagementApp\MVCPresentation\bin\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\net3\Final Project Dot Net 3\BookstoreManagementApp\MVCPresentation\bin\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\net3\Final Project Dot Net 3\BookstoreManagementApp\MVCPresentation\bin\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\net3\Final Project Dot Net 3\BookstoreManagementApp\MVCPresentation\bin\cs\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\net3\Final Project Dot Net 3\BookstoreManagementApp\MVCPresentation\bin\de\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\net3\Final Project Dot Net 3\BookstoreManagementApp\MVCPresentation\bin\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\net3\Final Project Dot Net 3\BookstoreManagementApp\MVCPresentation\bin\fr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\net3\Final Project Dot Net 3\BookstoreManagementApp\MVCPresentation\bin\it\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\net3\Final Project Dot Net 3\BookstoreManagementApp\MVCPresentation\bin\ja\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\net3\Final Project Dot Net 3\BookstoreManagementApp\MVCPresentation\bin\ko\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\net3\Final Project Dot Net 3\BookstoreManagementApp\MVCPresentation\bin\pl\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\net3\Final Project Dot Net 3\BookstoreManagementApp\MVCPresentation\bin\pt-BR\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\net3\Final Project Dot Net 3\BookstoreManagementApp\MVCPresentation\bin\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\net3\Final Project Dot Net 3\BookstoreManagementApp\MVCPresentation\bin\tr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\net3\Final Project Dot Net 3\BookstoreManagementApp\MVCPresentation\bin\zh-Hans\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\net3\Final Project Dot Net 3\BookstoreManagementApp\MVCPresentation\bin\zh-Hant\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\net3\Final Project Dot Net 3\BookstoreManagementApp\MVCPresentation\obj\Debug\MVCPresentation.csproj.AssemblyReference.cache
+C:\net3\Final Project Dot Net 3\BookstoreManagementApp\MVCPresentation\obj\Debug\MVCPresentation.Migrations.InitialCreate.resources
+C:\net3\Final Project Dot Net 3\BookstoreManagementApp\MVCPresentation\obj\Debug\MVCPresentation.Migrations.AddedFirstandLastNameFieldstoUser.resources
+C:\net3\Final Project Dot Net 3\BookstoreManagementApp\MVCPresentation\obj\Debug\MVCPresentation.Migrations.EmployeeID.resources
+C:\net3\Final Project Dot Net 3\BookstoreManagementApp\MVCPresentation\obj\Debug\MVCPresentation.csproj.GenerateResource.cache
+C:\net3\Final Project Dot Net 3\BookstoreManagementApp\MVCPresentation\obj\Debug\MVCPresentation.csproj.CoreCompileInputs.cache
+C:\net3\Final Project Dot Net 3\BookstoreManagementApp\MVCPresentation\obj\Debug\MVCPresentation.csproj.CopyComplete
+C:\net3\Final Project Dot Net 3\BookstoreManagementApp\MVCPresentation\obj\Debug\MVCPresentation.dll
+C:\net3\Final Project Dot Net 3\BookstoreManagementApp\MVCPresentation\obj\Debug\MVCPresentation.pdb
